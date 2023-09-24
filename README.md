@@ -6,7 +6,7 @@ Project made in React and based on a project made by the Youtuber [Fazt Code](ht
 
 # Example Images
 
-![image](https://github.com/Over1185/Rick-and-Morty-React/assets/92834159/ba2cf43e-4df8-4cdc-b256-39908ac33783)
+![image](https://github.com/Over1185/Rick-and-Morty-for-React/assets/92834159/952c19a4-4250-4260-a807-35488f73707a)
 
 # How can I start the project?
 
